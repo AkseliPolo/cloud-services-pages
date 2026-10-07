@@ -21,9 +21,9 @@ taught me, and the mistakes worth remembering.
 - [x] Bundle A — cloud terminology
 - [x] Bundle O — GitHub Actions CI
 - [x] Bundle E — this page
-- [ ] Week 3 — Cloudflare Pages
+- [x] Week 3 — Cloudflare Pages
+- [x] Bundle R — a game built with an AI coding agent
 - [ ] Week 4 — Firebase and Firestore
-- [ ] Bundle R — a game built with an AI coding agent
 
 ---
 
@@ -32,10 +32,11 @@ taught me, and the mistakes worth remembering.
 | Week | Assignment | Platform | Status |
 | :--- | :--- | :--- | :---: |
 | 1 | Express app reporting its own instance state | Render.com | live |
-| 3 | Static site showing the CDN edge that served it | Cloudflare Pages | building |
+| 3 | Static site showing the CDN edge that served it | Cloudflare Pages | live |
 | 4 | Dynamic site with a database | Firebase | planned |
 | 5 | Electricity price scraper | Playwright | done |
 | O | Continuous integration | GitHub Actions | passing |
+| R | 8-bit game built with an AI coding agent | Godot | done |
 
 ---
 
